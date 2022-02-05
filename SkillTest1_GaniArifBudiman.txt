@@ -1,0 +1,4 @@
+Nama   : Gani Arif Budiman
+Umur   :29 Tahun
+Stack  :Backend
+Bahasa Pemrograman :JS
